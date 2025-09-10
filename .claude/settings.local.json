@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(for file in about-us.html our-solution.html pricing.html what-is-employment-equity.html why-comply.html)",
+      "Bash(do)",
+      "Bash(sed:*)",
+      "Bash(done)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
